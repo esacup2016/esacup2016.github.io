@@ -5,7 +5,7 @@ permalink: /boat/
 menu-rank: 3
 ---
 
-<img align="right" src="/img/J_80_white.svg" alt="J/80 Class Sign" >
+<img align="right" src="/img/J_80_blue.svg" alt="J/80 Class Sign" width="20%">
 The International J/80 is a fixed keel One-Design sportsboat certified for offshore sailing, normally crewed by 3 to 5 people. As well as its mainsail & headsail, the J/80 has a 65 m² gennaker for downwind sailing, which when the wind rises over 15 knots gets the boat on the plane downwind.
 
 With over 1300 J/80's worldwide, the J/80 is one of Europe's and North America's best selling sportsboats. Recognized by the ISAF, the International J/80 Class Association promotes activities and regattas worldwide. For class racing, sails are restricted to only a main, headsail and gennaker with total crew weight at 338.6 kg with no limit on crew numbers.
