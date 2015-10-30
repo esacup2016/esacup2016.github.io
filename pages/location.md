@@ -5,28 +5,9 @@ permalink: /location/
 menu-rank: 4
 ---
 
-<style>
-      #map {
-			width: 300px;
-			height: 200px;
-			float:right
-      }
-</style>
-<script src="https://maps.googleapis.com/maps/api/js"></script>
-<script>
-  function initialize() {
-	var mapCanvas = document.getElementById('map');
-	var mapOptions = {
-	  center: new google.maps.LatLng(44.5403, -78.5463),
-	  zoom: 8,
-	  mapTypeId: google.maps.MapTypeId.ROADMAP
-	}
-	var map = new google.maps.Map(mapCanvas, mapOptions)
-  }
-  google.maps.event.addDomListener(window, 'load', initialize);
-</script>
+{% include mapscript.html %}
 
-<div id="map"></div>
+<div class="map"></div>
 The location will be BARCELONA – Real Club Náutico de Barcelona. The harbour is located just at the very heart of the town, at walking distance from the "Barrio Gotico" the oldest district of BCN. Ramblas is also in walking distance. The area is crowded with restaurants and hotels.
 
 ## Barcelona
