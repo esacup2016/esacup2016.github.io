@@ -7,7 +7,7 @@ menu-rank: 4
 
 {% include mapscript.html %}
 
-<div class="map"></div>
+<div class="map" data-address="Reial Club Nàutic de Barcelona, Passeig d'Ítaca 2, 08039 Barcelona, Spain"></div>
 The location will be BARCELONA – Real Club Náutico de Barcelona. The harbour is located just at the very heart of the town, at walking distance from the "Barrio Gotico" the oldest district of BCN. Ramblas is also in walking distance. The area is crowded with restaurants and hotels.
 
 ## Barcelona
