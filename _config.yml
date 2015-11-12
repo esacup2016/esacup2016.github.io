@@ -17,3 +17,4 @@ github_username: esacup2016
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: false
