@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Pre-Registration for Skippers
 permalink: /registration/
 menu-rank: 7
