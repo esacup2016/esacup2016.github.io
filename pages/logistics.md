@@ -14,9 +14,9 @@ double occupancy at rates of 120 euro/night including breakfast (i.e. 60
 euro/person/night). The hotel is in walking distance from the Harbour.
 
 To take advantage of this offer please directly contact
->    CORPORATE SAILING SL
->    Miguel Rosa
->    E-Mail: miguel.rosa@corporate-sailing.es
+>    CORPORATE SAILING SL  
+>    Miguel Rosa  
+>    E-Mail: miguel.rosa@corporate-sailing.es  
 >    Tel: +34 610 50 19 70
 
 Rooms can be canceled up to the 28 February 2016.
