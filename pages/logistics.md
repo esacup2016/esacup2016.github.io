@@ -8,6 +8,7 @@ menu-rank: 5
 ## Registration process
 As the availability of boats is limited the registration for this event will
 follow the following procedure:
+
 1. Skippers [pre-register](/registration) their boats (until 18 Dec 2015)
 2. Pre-registration is confirmed (until 8 Jan 2016)
 3. Skippers deposit a down payment of 1500€ (until 15 Jan 2016)
@@ -29,7 +30,7 @@ If you stay at the NH Hotel Barcelona Centro (see
 runs every 15 minutes from 6:00 am to midnight. This bus takes you directly to
 Plaça Catalunya, which is just five minutes walking distance from the hotel.
 
-## Accommodation {: #accommodation}
+## Accommodation {#accommodation}
 Preliminary block booking has been made at [NH Hotel Barcelona
 Centro](http://www.nh-hotels.com/hotel/nh-barcelona-centro) for 30 rooms with
 double occupancy at rates of 120 Euro per room and night including breakfast
