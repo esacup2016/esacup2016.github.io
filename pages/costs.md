@@ -5,7 +5,7 @@ permalink: /costs/
 menu-rank: 6
 ---
 
-The final price per boat is not fixed, it depends on the number of
+The final price per boat is not fixed yet, it depends on the number of
 registrations. Moreover, negotiations with sponsors are still ongoing and might
 further reduce the costs for participants.
 

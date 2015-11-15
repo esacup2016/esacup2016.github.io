@@ -15,7 +15,7 @@ airport to the city can be made by Taxi (ca. 35€) or [public
 transport](http://www.tmb.cat/en/acces-aeroport) (ca. 8€).
 
 If you stay at the NH Hotel Barcelona Centro (see
-[Accomomodation](#accommodation) below), just take the Aerobus A1 or A2, which
+[Accommodation](#accommodation) below), just take the Aerobus A1 or A2, which
 runs every 15 minutes from 6:00 a.m. to midnight. This bus takes you directly to
 Plaça Catalunya, which is just five minutes walking distance from the hotel.
 
