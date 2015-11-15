@@ -5,15 +5,23 @@ permalink: /costs/
 menu-rank: 6
 ---
 
-The indicative costs for boats, races, on-board packet lunches, prizegiving
-ceremony (excl. the dinner), and welcome party varies from 2273 Euro/boat, with
-a crew of 5 members if we have 15 boats/75participants, to 2545 euro/boat if we
-have 10 boat/50 participants. The cost of the social dinner on Saturday is
-on-top and above of these figures (indicative range 30-50 euro/pax TBC).
+The final price per boat is not fixed yet, negotiations with sponsors are still
+ongoing. It also depends on the number of registrations.
 
-The deposit for damages, to be returned after the check-out, is 500 euro/boat
-(on top and above cost indicated in the paragraph above), including gennaker.
-All the boats have an insurance covering civil liability. As far as medical
-assistance, participants are recommended either having a personal insurance or
-issuing the Spanish sailing licence (at a maximum cost of 57 € - that we will
-try to reduce) which include coverage for medical assistance.
+The indicative costs varies between about **2600 Euro/boat**, if we have 15
+boats/75 participants, and about **2900 Euro/boat** if we have 10 boat/50
+participants. Included in this price are the boat with a crew of up to five
+persons, participation in the races, on-board packet lunches, photos, welcome
+party, prizegiving ceremony and gala dinner. 
+
+The costs of one optional training day, including instructor (no reduction
+possible if bareboat only), will be between **658 Euro/boat** (in case of 15
+boats) and **737 Euro/boat** (in case of 10 boats). You can book up to two
+training days.
+
+The deposit for damages, to be returned after the check-out, is 500 Euro/boat
+(on top and above the costs indicated in the paragraphs above), including
+gennaker. All boats have an insurance covering civil liability. Regarding
+medical coverage, participants are recommended to either have a personal
+insurance or obtain a Spanish sailing licence (maximum cost of 57 €, that we
+will try to reduce) which include coverage for medical assistance.
