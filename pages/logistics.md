@@ -23,8 +23,7 @@ Plaça Catalunya, which is just five minutes walking distance from the hotel.
 
 {% include mapscript.html %}
 
-<div class="map" data-address="Hotel NH Barcelona Centro, Duc 15, 08002
-Barcelona, Spain"></div>
+<div class="map" data-address="Duc 15, Barcelona, Spain"></div>
 Preliminary block booking has been made at [NH Hotel Barcelona
 Centro](http://www.nh-hotels.com/hotel/nh-barcelona-centro) for 30 rooms with
 double occupancy at rates of about 120 Euro per room and night including
