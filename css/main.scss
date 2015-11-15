@@ -13,15 +13,15 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$page-backdrop-color: #022d3c;
+$brand-color:      #022d3c;
+
+$page-backdrop-color: $brand-color;
 $text-color:       #111;
 $site-title-color: lighten($page-backdrop-color, 15%);
 $heading-color: $page-backdrop-color;
 
 $background-color: #f3f3f3;
 $border-color: darken($background-color, 50%);
-
-$brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
