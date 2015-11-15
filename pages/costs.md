@@ -7,10 +7,10 @@ menu-rank: 6
 
 The final price per boat is not fixed, it depends on the number of
 registrations. Moreover, negotiations with sponsors are still ongoing and might
-further reduce the costs for participants. 
+further reduce the costs for participants.
 
-The indicative price will vary between about **2600 Euro/boat**, if we have 15
-boats/75 participants, and about **2900 Euro/boat**, if we have 10 boat/50
+The price is expected to be between about **2600 Euro/boat**, if we have 15
+boats/75 participants, and about **2900 Euro/boat**, if we have 10 boats/50
 participants. Included in this price are the boat with a crew of up to five
 persons, participation in the races, on-board packet lunches, photos, welcome
 party, prizegiving ceremony and gala dinner.
