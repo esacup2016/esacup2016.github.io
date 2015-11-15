@@ -32,3 +32,23 @@ important cultural center and a major tourist destination. Particularly renowned
 are the architectural works of Antoni Gaudí and Lluís Domènech i Montaner, which
 have been designated UNESCO World Heritage Sites. The city is known for hosting
 the 1992 Summer Olympics and many other international sport tournaments.
+
+## Port Vell
+
+Port Vell (literally in English 'Old Harbor') is part of the
+Port of Barcelona. It was rebuilt as part of an urban renewal program prior to the
+1992 Barcelona Olympics. Before this, it was a run-down area of empty
+warehouses, railroad yards, and factories. 16 million people visit the complex
+each year.
+
+It is now a focal point of the city and tourist attraction, containing the
+Maremàgnum (a mall containing shops, a multiplex cinema, bars and restaurants),
+IMAX Port Vell and Europe's largest aquarium containing 8000 Fish and 11 sharks
+contained in 22 basins filled with 6 million litres of sea water. A pedestrian
+walkway, Rambla de Mar, connects La Rambla to Port Vell. It incorporates a swing
+bridge, in order to allow ships to enter and exit the harbour.
+
+----
+Text adapted from the Wikipedia articles on
+[Barcelona](https://en.wikipedia.org/wiki/Barcelona#Seaport) and [Port
+Vell](https://en.wikipedia.org/wiki/Port_Vell)

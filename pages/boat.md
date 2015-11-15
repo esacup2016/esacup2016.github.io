@@ -32,4 +32,5 @@ there is little clutter on the deck and in the cockpit, giving the crew more
 space and fewer tripping hazards on board.
 
 ----
-Text and images adapted from the [Wikipedia article](https://en.wikipedia.org/wiki/J/80)
+Text adapted from the Wikipedia article on the
+[J/80](https://en.wikipedia.org/wiki/J/80)
