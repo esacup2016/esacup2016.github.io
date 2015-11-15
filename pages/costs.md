@@ -11,7 +11,7 @@ further reduce the costs for participants.
 
 The price is expected to be between about **2600 Euro/boat**, if we have 15
 boats/75 participants, and about **2900 Euro/boat**, if we have 10 boats/50
-participants. Included in this price are the boat with a crew of up to five
+participants. Included in this price are the boat for a crew of up to five
 persons, participation in the races, on-board packet lunches, photos, welcome
 party, prizegiving ceremony and gala dinner.
 
