@@ -24,5 +24,5 @@ The deposit for damages, to be returned after the check-out, is 500 Euro/boat
 (on top and above the costs indicated in the paragraphs above), including
 gennaker. All boats have an insurance covering civil liability. Regarding
 medical coverage, participants are advised to either have a personal insurance
-or obtain a Spanish sailing licence (maximum cost of 57 €, that we will try to
+or obtain a Spanish sailing licence (maximum cost of 57 Euro, that we will try to
 reduce) which include coverage for medical assistance.
