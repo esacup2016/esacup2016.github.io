@@ -14,7 +14,8 @@ for three days with two optional days of training available (24 and 25 May).
 Boats will be J/80, a fixed keel One-Design sportsboat certified for offshore
 sailing. 
 
-The event is organised with the support of [Corporate
+The event is organised by the ESA HQ Sailing Club (Contact: Luca del Monte,
+<Luca.Del.Monte@esa.int>) with the support of [Corporate
 Sailing](http://www.corporate-sailing.es/english_index.htm), a company
 experienced in organising Sailing and Yacht Racing Events for the corporate
 sector, Competition and Sailing Events Management and logistics. 
