@@ -8,7 +8,7 @@ menu-rank: 7
 Availability of boats for the ESA Cup 2016 is limited. The registration will
 therefore follow the following procedure:
 
-1. Skippers pre-register their boat on the [pre-registration](/pre-registration) form (until 18 Dec 2015)
+1. Skippers pre-register their boat on the pre-registration form (until 18 Dec 2015) - **Done.**
 2. Availability of boat is confirmed by e-mail, details of down payment communicated (until 8 Jan 2016)
 3. Skippers deposit a down payment of 1500€ (until 15 Jan 2016)
 4. Registration is confirmed by e-mail (until 22 Jan 2016)
