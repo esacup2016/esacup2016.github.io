@@ -5,19 +5,16 @@ permalink: /costs/
 menu-rank: 6
 ---
 
-The final price per boat is not fixed yet, it depends on the number of
-registrations. Moreover, negotiations with sponsors are still ongoing and might
-further reduce the costs for participants.
+The final price per boat is not fixed yet, negotiations with sponsors are still
+ongoing and might reduce the costs for participants.
 
-The price is expected to be between about **2600 Euro/boat**, if we have 15
-boats/75 participants, and about **2900 Euro/boat**, if we have 10 boats/50
-participants. Included in this price are the boat for a crew of up to five
-persons, participation in the races, on-board packet lunches, photos, welcome
-party, prizegiving ceremony and gala dinner.
+The final price is expected to not exceed **2900 Euro/boat**. Included in this
+price are the boat for a crew of up to five persons, participation in the races,
+on-board packet lunches, photos, welcome party, prizegiving ceremony and gala
+dinner.
 
-The costs of one optional training day, including instructor (no reduction
-possible if bareboat only), will be between **658 Euro/boat** (in case of 15
-boats) and **737 Euro/boat** (in case of 10 boats). You can book up to two
+The costs of an optional training day, including instructor (no reduction
+possible if bareboat only), is around **700 Euro/boat**. You can book up to two
 training days.
 
 The deposit for damages, to be returned after the check-out, is 500 Euro/boat
