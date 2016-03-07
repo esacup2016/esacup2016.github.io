@@ -36,6 +36,6 @@ Participants are of course free to select any other hotel they prefer.
 
 ## Transport to the marina
 
-Corporate Sailing provides a shuttle servicing with two coaches/buses during the
+Corporate Sailing provides a shuttle service with two coaches/buses during the
 whole week (i.e. including the training days) between the Old Harbour in
 Barcelona and Marina Badalona at no extra cost.
