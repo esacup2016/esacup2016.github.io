@@ -7,12 +7,9 @@ menu-rank: 4
 
 {% include mapscript.html %}
 
-<div class="map" data-address="Reial Club Nàutic de Barcelona, Passeig d'Ítaca
-2, Barcelona, Spain"></div>
-The location will be BARCELONA – Real Club Náutico de Barcelona. The harbour is
-located just at the very heart of the town, at walking distance from the "Barrio
-Gotico" the oldest district of BCN. Ramblas is also in walking distance. The
-area is crowded with restaurants and hotels.
+<div class="map" data-address="Marina de Badalona, Badalona, Spain"></div>
+The ESA Cup 2016 will be held at the Marina de Badalona near Barcelona, Spain.
+The harbour is located 12 min by car/coach from downtown Barcelona.
 
 ## Barcelona
 
@@ -33,22 +30,20 @@ are the architectural works of Antoni Gaudí and Lluís Domènech i Montaner, wh
 have been designated UNESCO World Heritage Sites. The city is known for hosting
 the 1992 Summer Olympics and many other international sport tournaments.
 
-## Port Vell
+## Badalona
 
-Port Vell (literally in English 'Old Harbor') is part of the
-Port of Barcelona. It was rebuilt as part of an urban renewal program prior to the
-1992 Barcelona Olympics. Before this, it was a run-down area of empty
-warehouses, railroad yards, and factories. 16 million people visit the complex
-each year.
+Badalona is a town near Barcelona and part of its metropolitan area. It is
+situated on the left bank of the small Besòs River and on the Mediterranean Sea,
+backed by the Serra de la Marina mountain range.
 
-It is now a focal point of the city and tourist attraction, containing the
-Maremàgnum (a mall containing shops, a multiplex cinema, bars and restaurants),
-IMAX Port Vell and Europe's largest aquarium containing 8000 Fish and 11 sharks
-contained in 22 basins filled with 6 million litres of sea water. A pedestrian
-walkway, Rambla de Mar, connects La Rambla to Port Vell. It incorporates a swing
-bridge, in order to allow ships to enter and exit the harbour.
+The town was founded by the Romans in the 3rd century BC, with the name of
+Baetulo. The current Badalona was formed in the 10th century, as a new urban
+nucleus built over and around the old Roman city. It was one of the most
+important towns during the Spanish industrialization process, from the 19th
+century onwards. Today, Badalona is in the middle of a process of major urban
+change which will provide one of the challenges for the 21st century.
 
 ----
-Text adapted from the Wikipedia articles on
-[Barcelona](https://en.wikipedia.org/wiki/Barcelona#Seaport) and [Port
-Vell](https://en.wikipedia.org/wiki/Port_Vell)
+Text adapted from the Wikipedia article on
+[Barcelona](https://en.wikipedia.org/wiki/Barcelona#Seaport) 
+and [Badalona](https://en.wikipedia.org/wiki/Badalona)

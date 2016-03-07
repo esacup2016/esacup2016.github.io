@@ -33,3 +33,9 @@ Sailing (Miguel Rosa, <miguel.rosa@corporate-sailing.es>, tel. +34 610 50 19
 70). Rooms can be canceled up to 28 February 2016, if necessary).
 
 Participants are of course free to select any other hotel they prefer.
+
+## Transport to the marina
+
+Corporate Sailing provides a shuttle servicing with two coaches/buses during the
+whole week (i.e. including the training days) between the Old Harbour in
+Barcelona and Marina Badalona at no extra cost.
