@@ -5,8 +5,8 @@ permalink: /
 menu-rank: 1
 ---
 
-The ESA Cup 2016 will take place in Badalona, Spain from 26 to 28 May 2016
-at the [Marina Badalona](http://www.marinabadalona-sa.es/)
+The ESA Cup 2016 will take place near Barcelona in Badalona, Spain from 26 to 28
+May 2016 at the [Marina Badalona](http://www.marinabadalona-sa.es/)
 
 The marina is located north of Barcelona, just 12 min by car/coach from the city
 center. 10 to 15 boats with up to five crew each will be racing for three days
