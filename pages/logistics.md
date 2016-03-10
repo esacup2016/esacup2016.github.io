@@ -17,7 +17,7 @@ transport](http://www.tmb.cat/en/acces-aeroport) (ca. 8€).
 If you stay at the NH Hotel Barcelona Eixample (see
 [Accommodation](#accommodation) below), just take the Aerobus A1 or A2, which
 runs every 15 minutes from 6:00 a.m. to midnight. Leave this bus at the stop
-Gran Via - Comte Borrell*, which is just a few minutes walking distance from the
+*Gran Via - Comte Borrell*, which is just a few minutes walking distance from the
 hotel.
 
 ## Accommodation {#accommodation}
