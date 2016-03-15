@@ -50,6 +50,24 @@ img {
 }
 
 
+div.logo-container {
+    display: inline-block;
+
+    img {
+        margin: 50px ($content-width - $spacing-unit) * .04;
+        width: ($content-width - $spacing-unit) * .15;
+    }
+}
+
+@include media-query($on-laptop) {
+    div.logo-container {
+        display: block;
+        margin: 0 auto;
+        width: $on-laptop / 2;
+        max-width: 100%;
+        text-align: center;
+    }
+}
 
 /**
  * Figures
@@ -196,4 +214,10 @@ pre {
 
 .jumbo {
     width: $content-width;
+}
+
+@include media-query($on-laptop) {
+    .jumbo {
+        width: 100%;
+    }
 }

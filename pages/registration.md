@@ -2,7 +2,7 @@
 layout: page
 title: Registration
 permalink: /registration/
-menu-rank: 7
+menu-rank: 8
 ---
 
 Availability of boats for the ESA Cup 2016 is limited. The registration will
