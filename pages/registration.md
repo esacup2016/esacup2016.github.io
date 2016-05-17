@@ -13,7 +13,7 @@ therefore follow the following procedure:
 3. Skippers deposit a down payment of 50% of the participation fee - **Done.**
 4. Registration is confirmed by e-mail - **Done.**
 5. Exact participation fee is communicated by e-mail - **Done.**   
-6. Skippers pay the rest of the participation fee (until 29 Apr 2016)
+6. Skippers pay the rest of the participation fee - **Done.**
 7. **We sail!** (26 - 28 May 2016)
 
 In case of cancellation no return of fees is foreseen. However, a replacement
