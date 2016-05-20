@@ -42,6 +42,7 @@ Barcelona and Marina Badalona at no extra cost.
 
 There will be three pick-up points in Barcelona serviced each morning (training
 and race days):
+
 * 9h00: Passeig de Colom/Via Laietana  
 * 9h05: Metro Paral-lel
 * 9h15: NH Eixample
