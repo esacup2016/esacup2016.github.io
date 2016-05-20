@@ -39,3 +39,13 @@ Participants are of course free to select any other hotel they prefer.
 Corporate Sailing provides a shuttle service with two coaches/buses during the
 whole week (i.e. including the training days) between the Old Harbour in
 Barcelona and Marina Badalona at no extra cost.
+
+There will be three pick-up points in Barcelona serviced each morning (training
+and race days):
+* 9h00: Passeig de Colom/Via Laietana  
+* 9h05: Metro Paral-lel
+* 9h15: NH Eixample
+
+The bus will return each evening after the races.
+
+See [details on times and location](/img/ESA Cup 2016 Bus Stops.pdf).
