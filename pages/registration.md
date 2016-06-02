@@ -14,7 +14,7 @@ therefore follow the following procedure:
 4. Registration is confirmed by e-mail - **Done.**
 5. Exact participation fee is communicated by e-mail - **Done.**   
 6. Skippers pay the rest of the participation fee - **Done.**
-7. **We sail!** (26 - 28 May 2016)
+7. **We sail!** - **Done.**
 
 In case of cancellation no return of fees is foreseen. However, a replacement
 crew (incl. skipper) may be named. 
